@@ -1,2 +1,2 @@
 # django_documet
-studying django document
+studying django document to write a booknote
